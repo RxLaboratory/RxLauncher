@@ -99,7 +99,7 @@ void MainWindow::onKeyboardRectangleChanged()
         QRectF keyboardRectangle = inputMethod->keyboardRectangle();
         int keyboardHeight = int(keyboardRectangle.height());
         this->resize(appSize.width(), appSize.height() - keyboardHeight - 15);
-        if (stackedWidget->currentIndex() == 1) this->move(0,keyboardHeight);
+        if (stackedWidget->currentIndex() == 1 || stackedWidget->currentIndex() == 3) this->move(0,keyboardHeight);
     }
 }
 

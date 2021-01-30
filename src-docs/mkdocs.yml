@@ -1,0 +1,43 @@
+site_name: RxLauncher Documentation
+site_url: https://rainboxlab.org
+repo_url: https://github.com/Rainbox-dev/RxLauncher/
+edit_uri: edit/master/src-docs/docs/
+site_description: The RxLauncher comprehensive documentation
+site_author: Nicolas Dufresne and contributors
+copyright: 'Copyright © 2021 <a href="https://rainboxlagb.org">Rainbox Laboratory</a> and <a href="https://duduf.com">Nicolas Dufresne</a>'
+use_directory_urls: false
+theme:
+    name: readthedocs
+    custom_dir: theme/
+markdown_extensions:
+    - smarty
+    - footnotes
+    - tables
+    - admonition
+    - codehilite
+    - fenced_code
+    - toc
+    - attr_list
+extra_css:
+    - style.css
+    - video.css
+extra_javascript:
+    - video.js
+site_dir: ../docs/
+dev_addr: '127.0.0.1:8001'
+nav:
+    - RxLauncher: index.md
+    - Documentation:
+        - Installation: install.md
+        - First use: firstuse.md
+        - App settings: appsettings.md
+        - Icon set: icons.md
+        - RxLauncher settings: settings.md
+        - Quick access: quickaccess.md
+        - Search app: search.md
+        - Add URL/Web app: url.md
+    - Changelog: changelog.md
+    - Credits: credits.md
+    - License:
+        - GNU GPLv3: licenses/gnu-gpl.md
+        - Documentation license: licenses/gfdl.md
