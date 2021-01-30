@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="32"
+   height="32"
+   viewBox="0 0 8.4666666 8.4666666"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   sodipodi:docname="game-cards_sl.svg">
+  <defs
+     id="defs2">
+    <inkscape:path-effect
+       effect="taper_stroke"
+       id="path-effect879"
+       is_visible="true"
+       stroke_width="1.77"
+       attach_start="1e-07"
+       end_offset="1.0001633"
+       smoothing="0.5"
+       jointype="extrapolated"
+       miter_limit="100" />
+    <inkscape:path-effect
+       effect="mirror_symmetry"
+       start_point="4.2333333,0"
+       end_point="4.2333333,8.4666667"
+       center_point="4.2333333,4.2333333"
+       id="path-effect897"
+       is_visible="true"
+       mode="vertical"
+       discard_orig_path="false"
+       fuse_paths="false"
+       oposite_fuse="false" />
+    <inkscape:path-effect
+       effect="mirror_symmetry"
+       start_point="4.2328811,1.6730093"
+       end_point="4.2328811,6.1768975"
+       center_point="4.2328811,3.9249534"
+       id="path-effect862"
+       is_visible="true"
+       mode="free"
+       discard_orig_path="false"
+       fuse_paths="false"
+       oposite_fuse="false" />
+    <inkscape:path-effect
+       effect="mirror_symmetry"
+       start_point="4.2333333,0"
+       end_point="4.2333333,8.4666667"
+       center_point="4.2333333,4.2333333"
+       id="path-effect858"
+       is_visible="true"
+       mode="vertical"
+       discard_orig_path="false"
+       fuse_paths="false"
+       oposite_fuse="false" />
+    <inkscape:path-effect
+       effect="mirror_symmetry"
+       start_point="4.2333333,0"
+       end_point="4.2333333,8.4666667"
+       center_point="4.2333333,4.2333333"
+       id="path-effect854"
+       is_visible="true"
+       mode="vertical"
+       discard_orig_path="false"
+       fuse_paths="false"
+       oposite_fuse="false" />
+    <style
+       id="style1399">.cls-1{fill:#e3e3e3;}</style>
+    <style
+       id="style1399-4">.cls-1{fill:#e3e3e3;}</style>
+    <style
+       id="style1399-8">.cls-1{fill:#e3e3e3;}</style>
+    <style
+       id="style1399-4-5">.cls-1{fill:#e3e3e3;}</style>
+    <inkscape:path-effect
+       oposite_fuse="false"
+       fuse_paths="false"
+       discard_orig_path="false"
+       mode="vertical"
+       is_visible="true"
+       id="path-effect897-3"
+       center_point="4.2333333,4.2333333"
+       end_point="4.2333333,8.4666667"
+       start_point="4.2333333,0"
+       effect="mirror_symmetry" />
+    <inkscape:path-effect
+       oposite_fuse="false"
+       fuse_paths="false"
+       discard_orig_path="false"
+       mode="free"
+       is_visible="true"
+       id="path-effect862-8"
+       center_point="4.2328811,3.9249534"
+       end_point="4.2328811,6.1768975"
+       start_point="4.2328811,1.6730093"
+       effect="mirror_symmetry" />
+    <inkscape:path-effect
+       oposite_fuse="false"
+       fuse_paths="false"
+       discard_orig_path="false"
+       mode="vertical"
+       is_visible="true"
+       id="path-effect858-5"
+       center_point="4.2333333,4.2333333"
+       end_point="4.2333333,8.4666667"
+       start_point="4.2333333,0"
+       effect="mirror_symmetry" />
+    <inkscape:path-effect
+       oposite_fuse="false"
+       fuse_paths="false"
+       discard_orig_path="false"
+       mode="vertical"
+       is_visible="true"
+       id="path-effect854-6"
+       center_point="4.2333333,4.2333333"
+       end_point="4.2333333,8.4666667"
+       start_point="4.2333333,0"
+       effect="mirror_symmetry" />
+    <style
+       id="style1399-1">.cls-1{fill:#e3e3e3;}</style>
+    <style
+       id="style1399-4-1">.cls-1{fill:#e3e3e3;}</style>
+    <style
+       id="style1399-8-5">.cls-1{fill:#e3e3e3;}</style>
+    <style
+       id="style1399-4-5-9">.cls-1{fill:#e3e3e3;}</style>
+    <style
+       id="style1399-44">.cls-1{fill:#e3e3e3;}</style>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="16.000001"
+     inkscape:cx="12.547872"
+     inkscape:cy="10.850522"
+     inkscape:document-units="mm"
+     inkscape:current-layer="svg8"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1237"
+     inkscape:window-height="1136"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="0">
+    <sodipodi:guide
+       position="8.4666666,0"
+       orientation="-32,0"
+       id="guide854"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="0,8.4666814"
+       orientation="0,-32"
+       id="guide856"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="0,8.4666814"
+       orientation="32,0"
+       id="guide858"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <path
+     style="opacity:1;fill:#e3e3e3;fill-opacity:1;stroke:none;stroke-width:5.91496086;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     d="M 4.25 0 C 3.0065556 2.9605947e-16 2.0058594 1.0006962 2.0058594 2.2441406 L 2.0058594 21.621094 C 2.0058594 22.864538 3.0065556 23.865234 4.25 23.865234 L 16.191406 23.865234 C 17.434851 23.865234 18.435547 22.864538 18.435547 21.621094 L 18.435547 2.2441406 C 18.435547 1.0006962 17.434851 0 16.191406 0 L 4.25 0 z M 20.640625 5.8769531 L 20.640625 21.621094 C 20.640625 24.050033 18.618392 26.072266 16.189453 26.072266 L 7.8867188 26.072266 L 17.548828 31.650391 C 18.625683 32.272113 19.993512 31.904979 20.615234 30.828125 L 30.302734 14.046875 C 30.924457 12.970021 30.559276 11.604144 29.482422 10.982422 L 20.640625 5.8769531 z "
+     transform="scale(0.26458333)"
+     id="rect1077" />
+</svg>

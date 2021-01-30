@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1280"
+   height="1920"
+   viewBox="0 0 338.66667 508.00001"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   sodipodi:docname="splash_portrait.svg">
+  <defs
+     id="defs2">
+    <style
+       id="style857">.cls-1{fill:#e52120;}.cls-1,.cls-2,.cls-3,.cls-4,.cls-5{stroke:#000;stroke-miterlimit:10;stroke-width:1.2px;}.cls-2{fill:#6dbc88;}.cls-3{fill:#701034;}.cls-4{fill:#51aae0;}.cls-5{fill:none;}</style>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35355339"
+     inkscape:cx="572.34379"
+     inkscape:cy="1127.9726"
+     inkscape:document-units="mm"
+     inkscape:current-layer="g859"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1848"
+     inkscape:window-height="1136"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-nodes="true"
+     inkscape:bbox-paths="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:snap-nodes="false" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="g859"
+     transform="translate(101.86458,-229.18747)">
+    <rect
+       style="opacity:1;fill:#232323;fill-opacity:1;stroke:none;stroke-width:0.57599992;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:0.57599994, 1.15199988;stroke-dashoffset:15.63091469;stroke-opacity:1"
+       id="rect861"
+       width="338.83591"
+       height="508.21698"
+       x="-101.98442"
+       y="229.08012" />
+    <circle
+       r="67.46875"
+       cy="440.53125"
+       cx="67.46875"
+       id="path836"
+       style="opacity:1;fill:#e3e3e3;fill-opacity:1;stroke:none;stroke-width:9.03876781;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:9.03876892, 18.077538;stroke-dashoffset:15.63091469;stroke-opacity:1" />
+    <path
+       sodipodi:nodetypes="scccccccccccccccccccsscsscccccccccccccccccccccccccccssccccccccccccccccccccccccccccccssc"
+       inkscape:connector-curvature="0"
+       id="rect1427"
+       d="m 38.07502,403.70802 h 23.455368 v 6.06677 h -2.455382 c -4.497171,0.0115 -8.216374,3.69479 -8.263583,8.19171 v 0.0159 4.22153 c 0.01182,4.52944 3.748586,8.27332 8.277943,8.28511 h 2.441022 v 3.99904 h -4.393843 c -2.964024,0.0159 -5.425705,2.48529 -5.442049,5.44919 v 2.8144 c 4.6e-5,1.37381 -1.039396,2.43031 -2.412305,2.44099 h -4.185637 c -1.376267,0 -2.430276,-1.05028 -2.426666,-2.42665 v -0.0143 -2.8144 c -0.01642,-2.98175 -2.497695,-5.45795 -5.477944,-5.44919 h -6.540509 v -23.36199 c 0,-4.11188 3.31182,-7.42369 7.423585,-7.42369 z m 29.313825,0 h 29.428701 c 4.111764,0 7.416404,3.31181 7.416404,7.42369 v 29.21328 h -6.310765 v -2.40513 c 0.01193,-4.54617 -3.731753,-8.29945 -8.277943,-8.29945 h -4.221536 -0.02152 c -4.521046,0.0319 -8.227824,3.77814 -8.227686,8.29945 v 2.40513 h -9.785659 v -10.20925 -0.0159 c 0.0089,-3.00358 -2.487167,-5.49238 -5.485122,-5.48345 h -2.792821 -0.02152 c -1.363915,-0.0108 -2.41587,-1.06304 -2.426664,-2.42681 v -4.1855 c 0.01422,-1.35469 1.059621,-2.38011 2.412305,-2.39079 h 2.778459 c 3.019976,0.0319 5.552256,-2.4794 5.535379,-5.49955 z m 18.06358,31.78368 h 4.192817 c 1.376267,0 2.430278,1.05028 2.426663,2.42664 v 0.0159 2.81441 c 0.01642,2.98637 2.513059,5.45859 5.499485,5.44202 h 6.66256 v 23.67069 c 0,4.11171 -3.30464,7.42352 -7.416404,7.42352 H 73.20423 v -6.37531 h 2.462562 c 4.497166,-0.0115 8.216339,-3.69479 8.263581,-8.19172 v -4.24304 c -0.01181,-4.52386 -3.748586,-8.26056 -8.277942,-8.27252 H 73.20423 v -4.00605 h 4.379483 0.01436 c 2.964051,-0.0159 5.432888,-2.47812 5.449227,-5.44202 v -2.8144 c -4.3e-5,-1.37381 1.032113,-2.43732 2.405128,-2.44816 z m -54.80099,4.85329 h 6.159995 v 2.4123 c -0.01193,4.54617 3.73893,8.29228 8.285124,8.29228 h 4.221536 c 4.521127,-0.0319 8.227826,-3.77097 8.227686,-8.29228 v -2.4123 h 9.807174 v 10.23076 c -0.0089,2.998 2.479931,5.4868 5.477944,5.47788 h 2.821537 c 1.368696,0.011 2.4159,1.07737 2.419484,2.44831 v 4.17117 c -0.01427,1.35947 -1.059732,2.38727 -2.419484,2.39078 h -2.764102 c -3.020024,-0.0319 -5.55225,2.4794 -5.535379,5.49955 v 6.72722 H 38.07502 c -4.111765,0 -7.423585,-3.31181 -7.423585,-7.42368 z"
+       style="opacity:1;fill:#232323;fill-opacity:1;stroke:none;stroke-width:9.75298882;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:25.39999962px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#e3e3e3;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="66.478134"
+       y="548.60211"
+       id="text865"><tspan
+         sodipodi:role="line"
+         id="tspan863"
+         x="66.478134"
+         y="548.60211"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:25.39999962px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#e3e3e3;stroke-width:0.26458332">RxLauncher</tspan></text>
+  </g>
+  <style
+     type="text/css"
+     id="style815">
+	.st0{fill:#00005B;}
+	.st1{fill:#9999FF;}
+</style>
+</svg>

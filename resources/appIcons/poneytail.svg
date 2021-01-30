@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="100mm"
+   height="100mm"
+   viewBox="0 0 100 100"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="poneytail.svg"
+   inkscape:export-filename="F:\DEV_SRC\RainboxUI\Icons\25w\w25_poneytail_l.png"
+   inkscape:export-xdpi="6.3499999"
+   inkscape:export-ydpi="6.3499999">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.0531189"
+     inkscape:cx="366.98025"
+     inkscape:cy="280.37039"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="3378"
+     inkscape:window-height="1417"
+     inkscape:window-x="54"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-197)">
+    <path
+       style="fill:#e3e3e3;stroke-width:0.41261348;fill-opacity:1"
+       d="m 61.626802,226.65289 c -0.871072,0.13303 -3.036133,0.69335 -4.811258,1.24517 -2.595103,0.80672 -3.617827,1.38199 -5.21962,2.93589 -2.899161,2.81248 -3.488858,5.47265 -2.261391,10.2013 0.992888,3.82496 2.298868,6.32999 7.183907,13.77957 5.320162,8.11315 7.614412,12.68144 8.509321,16.94367 1.687429,8.03682 -1.625775,14.65915 -8.763716,17.51667 -1.494468,0.59828 -2.795784,1.00921 -2.891811,0.91317 -0.09603,-0.0961 0.633595,-0.64821 1.621385,-1.22709 3.455589,-2.02512 6.579457,-6.34673 7.513111,-10.39378 0.356097,-1.54356 0.307323,-1.49217 -2.157668,2.27315 -2.437003,3.72256 -4.783808,5.91212 -7.889854,7.36118 -2.01328,0.93926 -2.863639,1.08254 -6.452254,1.0873 -3.842656,0.005 -4.326843,-0.0897 -6.884382,-1.34813 -3.482325,-1.71343 -6.226962,-4.66396 -7.194898,-7.73462 -0.65683,-2.08369 -0.656289,-2.40552 0.0092,-5.43382 0.866513,-3.94348 1.492663,-4.77782 1.492663,-1.98898 0,4.1288 2.579674,7.22253 6.02503,7.22568 2.363236,0.002 4.245834,-1.36882 5.6644,-4.12502 1.012224,-1.9667 1.142399,-2.6103 0.977212,-4.83136 -0.271954,-3.65665 -1.34821,-5.20221 -8.415691,-12.08536 -6.783484,-6.60659 -8.098349,-8.56698 -10.239574,-15.26671 -1.616036,-5.05644 -1.891519,-12.0437 -0.667489,-16.92992 1.018399,-4.06537 3.049442,-8.36867 5.398073,-11.43726 2.296636,-3.00065 1.343002,-2.72797 -1.216782,0.34793 -5.516573,6.62883 -8.065149,16.54032 -7.037628,27.36955 0.235253,2.47939 0.363701,4.57202 0.285439,4.65027 -0.46458,0.46459 -1.621418,-7.57354 -1.801942,-12.52052 -0.258167,-7.07466 0.384378,-10.62275 2.8615,-15.80107 1.33163,-2.78371 2.343175,-4.16058 5.032326,-6.84972 2.832073,-2.83207 4.050656,-3.7034 7.686002,-5.49575 6.451421,-3.18078 8.710734,-4.23663 16.682951,-4.29118 5.492761,-0.0376 7.850916,0.44901 9.87212,1.11166 4.438479,1.45509 9.00477,5.777 10.104638,12.61144 1.099869,6.83444 -6.998558,9.31159 -13.013321,10.18669 z"
+       id="path844"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccsscsccccccccccscsscssssscssscsczc" />
+  </g>
+</svg>

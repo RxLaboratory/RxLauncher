@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="32"
+   height="32"
+   viewBox="0 0 8.4666666 8.4666666"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   sodipodi:docname="play-war-canon_sl.svg">
+  <defs
+     id="defs2">
+    <style
+       id="style1399">.cls-1{fill:#e3e3e3;}</style>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="7.9999996"
+     inkscape:cx="12.2145"
+     inkscape:cy="18.839655"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1848"
+     inkscape:window-height="1136"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1">
+    <sodipodi:guide
+       position="8.4666666,0"
+       orientation="-32,0"
+       id="guide854"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="8.4666666,8.4666666"
+       orientation="0,-32"
+       id="guide856"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="0,8.4666814"
+       orientation="32,0"
+       id="guide858"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-288.53334)">
+    <path
+       style="opacity:1;fill:#d8ff8c;fill-opacity:1;stroke:none;stroke-width:8.17781925;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:8.17781953, 16.35563906000000145;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 28.945312,5.7734375 c -0.106854,-0.014749 -0.219003,-0.00828 -0.330078,0.021484 l -3.501953,0.9375 C 24.668984,6.8514721 24.408295,7.3057031 24.527344,7.75 l 0.03516,0.1308594 c -6.931324,1.139979 -13.768381,2.2600826 -19.9921875,3.3261716 -3.1208088,0.836259 -5.21423105,4.24702 -4.37304688,7.394531 0.35968504,1.335663 1.20078828,2.464474 2.28710938,3.253907 0.1929595,-3.141887 2.7955542,-5.592243 5.9433594,-5.595703 2.6046366,0.0025 4.9060726,1.69576 5.6835936,4.18164 4.183942,-1.565059 8.356678,-3.138549 12.550781,-4.720703 l 0.03516,0.130859 c 0.119049,0.444297 0.573281,0.704987 1.017578,0.585938 l 3.5,-0.9375 c 0.444297,-0.119049 0.706939,-0.571328 0.58789,-1.015625 L 29.632812,6.3808594 c -0.08929,-0.3332227 -0.366928,-0.5631762 -0.6875,-0.6074219 z"
+       transform="matrix(0.26458333,0,0,0.26458333,0,288.53334)"
+       id="rect821"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccccccccc" />
+    <path
+       style="fill:#d8ff8c;fill-opacity:1;stroke-width:0.00730999"
+       inkscape:connector-curvature="0"
+       d="m 3.0394386,294.58664 -1.286558,0.73831 c -0.1154981,0.0643 -0.2609668,-0.0182 -0.2609668,-0.15348 V 293.651 c 0,-0.13449 0.1447371,-0.21784 0.2609668,-0.15346 l 1.286558,0.78217 c 0.1198843,0.0673 0.1198843,0.24049 0,0.30701 z"
+       id="path868"
+       sodipodi:nodetypes="ccsscccc" />
+  </g>
+</svg>
