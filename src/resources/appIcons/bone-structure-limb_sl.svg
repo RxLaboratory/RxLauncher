@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="32"
+   height="32"
+   viewBox="0 0 8.4666666 8.4666666"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   sodipodi:docname="bone-structure-limb_sl.svg">
+  <defs
+     id="defs2">
+    <style
+       id="style1399">.cls-1{fill:#e3e3e3;}</style>
+    <style
+       id="style1399-4">.cls-1{fill:#e3e3e3;}</style>
+    <style
+       id="style1399-8">.cls-1{fill:#e3e3e3;}</style>
+    <style
+       id="style1399-4-5">.cls-1{fill:#e3e3e3;}</style>
+    <style
+       id="style1399-0">.cls-1{fill:#e3e3e3;}</style>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="11.313708"
+     inkscape:cx="13.708645"
+     inkscape:cy="21.521715"
+     inkscape:document-units="mm"
+     inkscape:current-layer="svg8"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1920"
+     inkscape:window-height="1043"
+     inkscape:window-x="0"
+     inkscape:window-y="120"
+     inkscape:window-maximized="1"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:snap-nodes="false"
+     inkscape:snap-others="true"
+     inkscape:snap-object-midpoints="true"
+     inkscape:snap-page="true">
+    <sodipodi:guide
+       position="8.4666666,0"
+       orientation="-32,0"
+       id="guide854"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="9.9384114,8.4666666"
+       orientation="0,-32"
+       id="guide856"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="0,8.4666814"
+       orientation="32,0"
+       id="guide858"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <path
+     style="opacity:1;fill:#e3e3e3;fill-opacity:1;stroke:none;stroke-width:6.49407959;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     d="M 6.8320312 12.396484 L 4.890625 20.039062 C 4.2328409 20.164261 3.6006229 20.397772 3.0195312 20.730469 C 0.13136562 22.397952 -0.85693654 26.092303 0.81054688 28.980469 C 2.4780297 31.868634 6.1704281 32.856936 9.0585938 31.189453 C 11.946759 29.52197 12.937014 25.829572 11.269531 22.941406 C 10.932645 22.362733 10.501199 21.843567 9.9941406 21.40625 L 11.941406 13.728516 C 10.100426 13.900558 8.2987964 13.403442 6.8320312 12.396484 z M 6.296875 22.277344 C 7.4786903 22.360794 8.5996171 23.011762 9.2363281 24.115234 C 10.255975 25.880265 9.6503209 28.137513 7.8847656 29.15625 C 6.1197361 30.175898 3.8624873 29.572196 2.84375 27.806641 C 1.8241026 26.04161 2.427804 23.782409 4.1933594 22.763672 C 4.8552453 22.381304 5.5877858 22.227274 6.296875 22.277344 z M 6.1464844 24.435547 C 5.852713 24.414803 5.5496062 24.478306 5.2753906 24.636719 C 4.5439315 25.058774 4.2924097 25.993368 4.7148438 26.724609 C 5.1369006 27.456069 6.0734461 27.707591 6.8046875 27.285156 C 7.536147 26.8631 7.7857149 25.926554 7.3632812 25.195312 C 7.0994955 24.738151 6.6361033 24.47012 6.1464844 24.435547 z "
+     transform="scale(0.26458333)"
+     id="path828" />
+  <path
+     style="opacity:1;fill:#e3e3e3;fill-opacity:1;stroke:none;stroke-width:1.71822524;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     d="M 8.3532736,4.0742175 C 8.307483,3.9033234 8.1958417,3.7498477 8.0298059,3.653987 L 4.5584504,1.7101646 C 4.5714981,1.5334828 4.555065,1.3558606 4.5098355,1.1845695 4.2814596,0.33225921 3.4053904,-0.17353953 2.5530801,0.05483629 1.7007699,0.28321212 1.1949709,1.1592813 1.4233467,2.0115916 1.6517228,2.8639017 2.5277919,3.3697005 3.3801023,3.1413247 3.5510622,3.0948546 3.7131012,3.0202694 3.8595885,2.9206289 L 7.3313451,4.8637566 C 7.6634162,5.0554777 8.0849706,4.942522 8.2766919,4.6104517 L 8.283118,4.599336 C 8.3789728,4.4332985 8.3990667,4.2451123 8.3532751,4.0742179 Z M 3.9097459,1.345363 C 4.049467,1.8662724 3.7402904,2.4017824 3.2193087,2.5412351 2.6983989,2.6809561 2.162889,2.3717795 2.0234365,1.8507981 1.8837151,1.3298885 2.1928919,0.79437856 2.7138736,0.65492579 3.2347833,0.51520464 3.7702932,0.82438145 3.9097459,1.345363 Z M 3.3573344,1.493381 C 3.2995606,1.2775414 3.0777013,1.1494515 2.8618917,1.2073371 2.6460524,1.2651119 2.5179621,1.4869703 2.5758478,1.7027797 c 0.057774,0.21584 0.279633,0.3439295 0.4954426,0.286044 C 3.2871299,1.931049 3.41522,1.7091906 3.3573344,1.493381 Z"
+     id="path939"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="scccsscccccscccccccccc" />
+</svg>

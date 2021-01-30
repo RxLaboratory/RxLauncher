@@ -15,9 +15,18 @@
    version="1.1"
    id="svg8"
    inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
-   sodipodi:docname="settings_l.svg">
+   sodipodi:docname="cube-3d_sl.svg">
   <defs
-     id="defs2" />
+     id="defs2">
+    <style
+       id="style1399">.cls-1{fill:#e3e3e3;}</style>
+    <style
+       id="style1399-4">.cls-1{fill:#e3e3e3;}</style>
+    <style
+       id="style1399-8">.cls-1{fill:#e3e3e3;}</style>
+    <style
+       id="style1399-4-5">.cls-1{fill:#e3e3e3;}</style>
+  </defs>
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -25,30 +34,32 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="-259.52402"
-     inkscape:cy="-8.1717855"
+     inkscape:zoom="11.313708"
+     inkscape:cx="22.637211"
+     inkscape:cy="20.345729"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="svg8"
      showgrid="false"
      units="px"
      inkscape:window-width="1920"
      inkscape:window-height="1043"
      inkscape:window-x="0"
      inkscape:window-y="120"
-     inkscape:window-maximized="1">
-    <sodipodi:guide
-       position="0,0"
-       orientation="0,32"
-       id="guide852"
-       inkscape:locked="false" />
+     inkscape:window-maximized="1"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:snap-nodes="false"
+     inkscape:snap-others="false">
     <sodipodi:guide
        position="8.4666666,0"
        orientation="-32,0"
        id="guide854"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="8.4666666,8.4666666"
+       position="9.9384114,8.4666666"
        orientation="0,-32"
        id="guide856"
        inkscape:locked="false" />
@@ -70,26 +81,9 @@
       </cc:Work>
     </rdf:RDF>
   </metadata>
-  <g
-     inkscape:label="Layer 1"
-     inkscape:groupmode="layer"
-     id="layer1"
-     transform="translate(0,-288.53334)">
-    <rect
-       style="fill:#232323;fill-opacity:1;stroke:none;stroke-width:1.56500006;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;image-rendering:auto"
-       id="rect850"
-       width="8.4666662"
-       height="8.4666815"
-       x="0"
-       y="288.53333"
-       inkscape:label="BG" />
-    <rect
-       y="290.63806"
-       x="2.1047437"
-       height="4.2571864"
-       width="4.2571788"
-       id="rect860"
-       style="fill:#83d3f6;fill-opacity:1;stroke:none;stroke-width:0.78690773;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;image-rendering:auto"
-       inkscape:label="Color" />
-  </g>
+  <path
+     id="path822"
+     d="M 3.9546395,0.14127589 0.51438436,1.4313717 C 0.20509206,1.5471495 0,1.8448639 0,2.1756577 v 3.7230838 c 0,0.3010223 0.17035873,0.575581 0.43830167,0.7095528 L 3.878557,8.3284216 c 0.2232858,0.1124699 0.4862668,0.1124699 0.7095525,0 L 8.0283647,6.6082943 C 8.2979618,6.4743225 8.4666667,6.19811 8.4666667,5.8987415 V 2.1756577 c 0,-0.3307938 -0.2050926,-0.6268543 -0.5143842,-0.7426321 L 4.512027,0.14292982 C 4.3333983,0.07346273 4.134922,0.07346273 3.9546395,0.14127726 Z M 4.2341601,1.1683905 7.4097802,2.3592482 v 0.018193 L 4.2341601,3.6675376 1.05854,2.3774418 V 2.3592486 Z M 4.7634302,7.0565199 V 4.5937602 l 2.64635,-1.0750799 v 2.2146644 z"
+     inkscape:connector-curvature="0"
+     style="stroke-width:0.01653968;fill:#e3e3e3" />
 </svg>

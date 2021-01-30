@@ -92,7 +92,6 @@
         <file>resources/appIcons/build-settings_sl.svg</file>
         <file>resources/appIcons/bus_sl.svg</file>
         <file>resources/appIcons/calendar_sl.svg</file>
-        <file>resources/appIcons/camera_sl.svg</file>
         <file>resources/appIcons/car_sl.svg</file>
         <file>resources/appIcons/change-frames-start-number_bl.svg</file>
         <file>resources/appIcons/change-frames-start-number_sl.svg</file>
@@ -123,10 +122,8 @@
         <file>resources/appIcons/download_sl.svg</file>
         <file>resources/appIcons/edit-alpha_bl.svg</file>
         <file>resources/appIcons/edit-alpha_sl.svg</file>
-        <file>resources/appIcons/edit_bl.svg</file>
         <file>resources/appIcons/edit-calendar_sl.svg</file>
         <file>resources/appIcons/edit-contacts_sl.svg</file>
-        <file>resources/appIcons/edit_sl.svg</file>
         <file>resources/appIcons/encode_bl.svg</file>
         <file>resources/appIcons/encode_sl.svg</file>
         <file>resources/appIcons/export_bl.svg</file>
@@ -169,9 +166,7 @@
         <file>resources/appIcons/interpolation_sl.svg</file>
         <file>resources/appIcons/keyframe_sl.svg</file>
         <file>resources/appIcons/krita_sl.svg</file>
-        <file>resources/appIcons/layer_bl.svg</file>
         <file>resources/appIcons/layers_bl.svg</file>
-        <file>resources/appIcons/layer_sl.svg</file>
         <file>resources/appIcons/layers_sl.svg</file>
         <file>resources/appIcons/list_sl.svg</file>
         <file>resources/appIcons/load_bl.svg</file>
@@ -330,7 +325,6 @@
         <file>resources/appIcons/video-file_sl.svg</file>
         <file>resources/appIcons/video-framerate_sl.svg</file>
         <file>resources/appIcons/video-quality_sl.svg</file>
-        <file>resources/appIcons/video_sl.svg</file>
         <file>resources/appIcons/virus_sl.svg</file>
         <file>resources/appIcons/war-canon_sl.svg</file>
         <file>resources/appIcons/guide_sl.svg</file>
@@ -380,300 +374,7 @@
         <file>resources/appIcons/creation_l.svg</file>
         <file>resources/appIcons/deletion_l.svg</file>
         <file>resources/appIcons/neutral_l.svg</file>
-        <file>resources/appIcons/magic_l.svg</file>
-        <file>resources/appIcons/updatemagic_l.svg</file>
-        <file>resources/appIcons/update_l.svg</file>
         <file>resources/appIcons/Signed-by-Bassel.svg</file>
-        <file>resources/appIcons/tutorial.svg</file>
-        <file>resources/appIcons/options_l.svg</file>
-        <file>resources/appIcons/randomlayerstarttime_l.svg</file>
-        <file>resources/appIcons/selectallstructures_l.svg</file>
-        <file>resources/appIcons/separatedimensions_l.svg</file>
-        <file>resources/appIcons/positionconstraint_l.svg</file>
-        <file>resources/appIcons/selectedchildren_l.svg</file>
-        <file>resources/appIcons/selectcontroller_l.svg</file>
-        <file>resources/appIcons/removeexpression_l.svg</file>
-        <file>resources/appIcons/randomlayerindex_l.svg</file>
-        <file>resources/appIcons/selectedelement_l.svg</file>
-        <file>resources/appIcons/selectedlayers_l.svg</file>
-        <file>resources/appIcons/selectchildren_l.svg</file>
-        <file>resources/appIcons/randomlayerout_l.svg</file>
-        <file>resources/appIcons/proceduralwalk_l.svg</file>
-        <file>resources/appIcons/pathconstraint_l.svg</file>
-        <file>resources/appIcons/structureshow_l.svg</file>
-        <file>resources/appIcons/structurehide_l.svg</file>
-        <file>resources/appIcons/structureedit_l.svg</file>
-        <file>resources/appIcons/selectedprops_l.svg</file>
-        <file>resources/appIcons/selecteditems_l.svg</file>
-        <file>resources/appIcons/selectedchain_l.svg</file>
-        <file>resources/appIcons/searchreplace_l.svg</file>
-        <file>resources/appIcons/randomlayerin_l.svg</file>
-        <file>resources/appIcons/randomkeytime_l.svg</file>
-        <file>resources/appIcons/previousframe_l.svg</file>
-        <file>resources/appIcons/structureget_l.svg</file>
-        <file>resources/appIcons/settingsfile_l.svg</file>
-        <file>resources/appIcons/precompshots_l.svg</file>
-        <file>resources/appIcons/pickproperty_l.svg</file>
-        <file>resources/appIcons/singlelayer_l.svg</file>
-        <file>resources/appIcons/simpleminus_l.svg</file>
-        <file>resources/appIcons/selectlayer_l.svg</file>
-        <file>resources/appIcons/selectchain_l.svg</file>
-        <file>resources/appIcons/plantigrade_l.svg</file>
-        <file>resources/appIcons/picktexture_l.svg</file>
-        <file>resources/appIcons/vulcanhand_l.svg</file>
-        <file>resources/appIcons/updatecode_l.svg</file>
-        <file>resources/appIcons/unchained2_l.svg</file>
-        <file>resources/appIcons/storyboard_l.svg</file>
-        <file>resources/appIcons/simpleplus_l.svg</file>
-        <file>resources/appIcons/searchtext_l.svg</file>
-        <file>resources/appIcons/precompose_l.svg</file>
-        <file>resources/appIcons/unchecked_l.svg</file>
-        <file>resources/appIcons/unchained_l.svg</file>
-        <file>resources/appIcons/transform_l.svg</file>
-        <file>resources/appIcons/timeremap_l.svg</file>
-        <file>resources/appIcons/timerange_l.svg</file>
-        <file>resources/appIcons/textbelow_l.svg</file>
-        <file>resources/appIcons/smallcalc_l.svg</file>
-        <file>resources/appIcons/shoulders_l.svg</file>
-        <file>resources/appIcons/selectkey_l.svg</file>
-        <file>resources/appIcons/selectcam_l.svg</file>
-        <file>resources/appIcons/scriptify_l.svg</file>
-        <file>resources/appIcons/randomize_l.svg</file>
-        <file>resources/appIcons/ungulate_l.svg</file>
-        <file>resources/appIcons/showhand_l.svg</file>
-        <file>resources/appIcons/savecopy_l.svg</file>
-        <file>resources/appIcons/rotation_l.svg</file>
-        <file>resources/appIcons/rigshape_l.svg</file>
-        <file>resources/appIcons/propinfo_l.svg</file>
-        <file>resources/appIcons/pickpath_l.svg</file>
-        <file>resources/appIcons/tvpclip_l.svg</file>
-        <file>resources/appIcons/texture_l.svg</file>
-        <file>resources/appIcons/saveinc_l.svg</file>
-        <file>resources/appIcons/publish_l.svg</file>
-        <file>resources/appIcons/project_l.svg</file>
-        <file>resources/appIcons/poneytail.svg</file>
-        <file>resources/appIcons/wiggle_l.svg</file>
-        <file>resources/appIcons/unlink_l.svg</file>
-        <file>resources/appIcons/tvpcam_l.svg</file>
-        <file>resources/appIcons/target_l.svg</file>
-        <file>resources/appIcons/switch_l.svg</file>
-        <file>resources/appIcons/spring_l.svg</file>
-        <file>resources/appIcons/spacer_l.svg</file>
-        <file>resources/appIcons/slider_l.svg</file>
-        <file>resources/appIcons/search_l.svg</file>
-        <file>resources/appIcons/rename_l.svg</file>
-        <file>resources/appIcons/random_l.svg</file>
-        <file>resources/appIcons/zlink_l.svg</file>
-        <file>resources/appIcons/wheel_l.svg</file>
-        <file>resources/appIcons/vulva_l.svg</file>
-        <file>resources/appIcons/trash_l.svg</file>
-        <file>resources/appIcons/tools_l.svg</file>
-        <file>resources/appIcons/swing_l.svg</file>
-        <file>resources/appIcons/stack_l.svg</file>
-        <file>resources/appIcons/spine_l.svg</file>
-        <file>resources/appIcons/shape_l.svg</file>
-        <file>resources/appIcons/scale_l.svg</file>
-        <file>resources/appIcons/save2_l.svg</file>
-        <file>resources/appIcons/ruler_l.svg</file>
-        <file>resources/appIcons/penis_l.svg</file>
-        <file>resources/appIcons/paste_l.svg</file>
-        <file>resources/appIcons/zero_l.svg</file>
-        <file>resources/appIcons/ypos_l.svg</file>
-        <file>resources/appIcons/xpos_l.svg</file>
-        <file>resources/appIcons/vsym_l.svg</file>
-        <file>resources/appIcons/user_l.svg</file>
-        <file>resources/appIcons/time_l.svg</file>
-        <file>resources/appIcons/text_l.svg</file>
-        <file>resources/appIcons/tail_l.svg</file>
-        <file>resources/appIcons/skin_l.svg</file>
-        <file>resources/appIcons/save_l.svg</file>
-        <file>resources/appIcons/plus_l.svg</file>
-        <file>resources/appIcons/url_l.svg</file>
-        <file>resources/appIcons/rig_l.svg</file>
-        <file>resources/appIcons/pos_l.svg</file>
-        <file>resources/appIcons/pin_l.svg</file>
-        <file>resources/appIcons/up_l.svg</file>
-        <file>resources/appIcons/orientationconstraint_l.svg</file>
-        <file>resources/appIcons/extractcontrollers_l.svg</file>
-        <file>resources/appIcons/duplicatestructure_l.svg</file>
-        <file>resources/appIcons/collapsedimensions_l.svg</file>
-        <file>resources/appIcons/animatedproperties_l.svg</file>
-        <file>resources/appIcons/individualcontrol_l.svg</file>
-        <file>resources/appIcons/linkcameralayers_l.svg</file>
-        <file>resources/appIcons/caseinsensitive_l.svg</file>
-        <file>resources/appIcons/handeyedropper_l.svg</file>
-        <file>resources/appIcons/featurerequest_l.svg</file>
-        <file>resources/appIcons/detectexposure_l.svg</file>
-        <file>resources/appIcons/automationplay_l.svg</file>
-        <file>resources/appIcons/archiveproject_l.svg</file>
-        <file>resources/appIcons/keyframesonly_l.svg</file>
-        <file>resources/appIcons/keyeyedropper_l.svg</file>
-        <file>resources/appIcons/casesensitive_l.svg</file>
-        <file>resources/appIcons/archivefolder_l.svg</file>
-        <file>resources/appIcons/allstructures_l.svg</file>
-        <file>resources/appIcons/allproperties_l.svg</file>
-        <file>resources/appIcons/languagefile_l.svg</file>
-        <file>resources/appIcons/dutranslator_l.svg</file>
-        <file>resources/appIcons/doubleslider_l.svg</file>
-        <file>resources/appIcons/distancelink_l.svg</file>
-        <file>resources/appIcons/batchcontrol_l.svg</file>
-        <file>resources/appIcons/antialiasing_l.svg</file>
-        <file>resources/appIcons/parenttocam_l.svg</file>
-        <file>resources/appIcons/overlaytext_l.svg</file>
-        <file>resources/appIcons/masterprops_l.svg</file>
-        <file>resources/appIcons/mapeffector_l.svg</file>
-        <file>resources/appIcons/linearwheel_l.svg</file>
-        <file>resources/appIcons/emptysquare_l.svg</file>
-        <file>resources/appIcons/digitigrade_l.svg</file>
-        <file>resources/appIcons/curvelinbez_l.svg</file>
-        <file>resources/appIcons/curvedwheel_l.svg</file>
-        <file>resources/appIcons/curvebezlin_l.svg</file>
-        <file>resources/appIcons/blenderedit_l.svg</file>
-        <file>resources/appIcons/blenderanim_l.svg</file>
-        <file>resources/appIcons/archivecomp_l.svg</file>
-        <file>resources/appIcons/parentcomp_l.svg</file>
-        <file>resources/appIcons/nullobject_l.svg</file>
-        <file>resources/appIcons/moveanchor_l.svg</file>
-        <file>resources/appIcons/layerindex_l.svg</file>
-        <file>resources/appIcons/importanim_l.svg</file>
-        <file>resources/appIcons/filledhand_l.svg</file>
-        <file>resources/appIcons/eyedropper_l.svg</file>
-        <file>resources/appIcons/extractloc_l.svg</file>
-        <file>resources/appIcons/exportfile_l.svg</file>
-        <file>resources/appIcons/exportcode_l.svg</file>
-        <file>resources/appIcons/exportanim_l.svg</file>
-        <file>resources/appIcons/constraint_l.svg</file>
-        <file>resources/appIcons/babybottle_l.svg</file>
-        <file>resources/appIcons/autoparent_l.svg</file>
-        <file>resources/appIcons/automation_l.svg</file>
-        <file>resources/appIcons/numlayers_l.svg</file>
-        <file>resources/appIcons/noprecomp_l.svg</file>
-        <file>resources/appIcons/nextframe_l.svg</file>
-        <file>resources/appIcons/layername_l.svg</file>
-        <file>resources/appIcons/importrig_l.svg</file>
-        <file>resources/appIcons/exportrig_l.svg</file>
-        <file>resources/appIcons/easestart_l.svg</file>
-        <file>resources/appIcons/createcam_l.svg</file>
-        <file>resources/appIcons/clipboard_l.svg</file>
-        <file>resources/appIcons/camerarig_l.svg</file>
-        <file>resources/appIcons/bugreport_l.svg</file>
-        <file>resources/appIcons/animtools_l.svg</file>
-        <file>resources/appIcons/alllayers_l.svg</file>
-        <file>resources/appIcons/12layerik_l.svg</file>
-        <file>resources/appIcons/paintrig_l.svg</file>
-        <file>resources/appIcons/moveaway_l.svg</file>
-        <file>resources/appIcons/linstart_l.svg</file>
-        <file>resources/appIcons/keyboard_l.svg</file>
-        <file>resources/appIcons/hidehand_l.svg</file>
-        <file>resources/appIcons/getonion_l.svg</file>
-        <file>resources/appIcons/exposure_l.svg</file>
-        <file>resources/appIcons/effector_l.svg</file>
-        <file>resources/appIcons/edithand_l.svg</file>
-        <file>resources/appIcons/curvelin_l.svg</file>
-        <file>resources/appIcons/curvebez_l.svg</file>
-        <file>resources/appIcons/bezierik_l.svg</file>
-        <file>resources/appIcons/audition_l.svg</file>
-        <file>resources/appIcons/allprops_l.svg</file>
-        <file>resources/appIcons/allitems_l.svg</file>
-        <file>resources/appIcons/aelayers_l.svg</file>
-        <file>resources/appIcons/addlayer_l.svg</file>
-        <file>resources/appIcons/absolute_l.svg</file>
-        <file>resources/appIcons/3layerik_l.svg</file>
-        <file>resources/appIcons/2dcamera_l.svg</file>
-        <file>resources/appIcons/opacity_l.svg</file>
-        <file>resources/appIcons/measure_l.svg</file>
-        <file>resources/appIcons/loopout_l.svg</file>
-        <file>resources/appIcons/kroving_l.svg</file>
-        <file>resources/appIcons/koutbez_l.svg</file>
-        <file>resources/appIcons/jsshape_l.svg</file>
-        <file>resources/appIcons/foxtail_l.svg</file>
-        <file>resources/appIcons/footage_l.svg</file>
-        <file>resources/appIcons/filmcam_l.svg</file>
-        <file>resources/appIcons/editrig_l.svg</file>
-        <file>resources/appIcons/editkey_l.svg</file>
-        <file>resources/appIcons/easeend_l.svg</file>
-        <file>resources/appIcons/discord_l.svg</file>
-        <file>resources/appIcons/checked_l.svg</file>
-        <file>resources/appIcons/blender_l.svg</file>
-        <file>resources/appIcons/autorig_l.svg</file>
-        <file>resources/appIcons/addhand_l.svg</file>
-        <file>resources/appIcons/parent_l.svg</file>
-        <file>resources/appIcons/newcel_l.svg</file>
-        <file>resources/appIcons/loopin_l.svg</file>
-        <file>resources/appIcons/logout_l.svg</file>
-        <file>resources/appIcons/linend_l.svg</file>
-        <file>resources/appIcons/layers_l.svg</file>
-        <file>resources/appIcons/kinbez_l.svg</file>
-        <file>resources/appIcons/import_l.svg</file>
-        <file>resources/appIcons/folder_l.svg</file>
-        <file>resources/appIcons/circle_l.svg</file>
-        <file>resources/appIcons/chain2_l.svg</file>
-        <file>resources/appIcons/cancel_l.svg</file>
-        <file>resources/appIcons/camera_l.svg</file>
-        <file>resources/appIcons/barrel_l.svg</file>
-        <file>resources/appIcons/addrig_l.svg</file>
-        <file>resources/appIcons/addkey_l.svg</file>
-        <file>resources/appIcons/onion_l.svg</file>
-        <file>resources/appIcons/notes_l.svg</file>
-        <file>resources/appIcons/minus_l.svg</file>
-        <file>resources/appIcons/login_l.svg</file>
-        <file>resources/appIcons/krita_l.svg</file>
-        <file>resources/appIcons/khold_l.svg</file>
-        <file>resources/appIcons/kauto_l.svg</file>
-        <file>resources/appIcons/items_l.svg</file>
-        <file>resources/appIcons/ik2fk_l.svg</file>
-        <file>resources/appIcons/human_l.svg</file>
-        <file>resources/appIcons/frame_l.svg</file>
-        <file>resources/appIcons/forum_l.svg</file>
-        <file>resources/appIcons/fk2ik_l.svg</file>
-        <file>resources/appIcons/draft_l.svg</file>
-        <file>resources/appIcons/cofee_l.svg</file>
-        <file>resources/appIcons/close_l.svg</file>
-        <file>resources/appIcons/check_l.svg</file>
-        <file>resources/appIcons/chain_l.svg</file>
-        <file>resources/appIcons/broom_l.svg</file>
-        <file>resources/appIcons/blink_l.svg</file>
-        <file>resources/appIcons/angle_l.svg</file>
-        <file>resources/appIcons/align_l.svg</file>
-        <file>resources/appIcons/oven_l.svg</file>
-        <file>resources/appIcons/next_l.svg</file>
-        <file>resources/appIcons/news_l.svg</file>
-        <file>resources/appIcons/menu_l.svg</file>
-        <file>resources/appIcons/mask_l.svg</file>
-        <file>resources/appIcons/list_l.svg</file>
-        <file>resources/appIcons/klin_l.svg</file>
-        <file>resources/appIcons/kbez_l.svg</file>
-        <file>resources/appIcons/info_l.svg</file>
-        <file>resources/appIcons/ikfk_l.svg</file>
-        <file>resources/appIcons/hsym_l.svg</file>
-        <file>resources/appIcons/hips_l.svg</file>
-        <file>resources/appIcons/help_l.svg</file>
-        <file>resources/appIcons/head_l.svg</file>
-        <file>resources/appIcons/hand_l.svg</file>
-        <file>resources/appIcons/edit_l.svg</file>
-        <file>resources/appIcons/down_l.svg</file>
-        <file>resources/appIcons/copy_l.svg</file>
-        <file>resources/appIcons/comp_l.svg</file>
-        <file>resources/appIcons/cogs_l.svg</file>
-        <file>resources/appIcons/code_l.svg</file>
-        <file>resources/appIcons/calc_l.svg</file>
-        <file>resources/appIcons/bone_l.svg</file>
-        <file>resources/appIcons/body_l.svg</file>
-        <file>resources/appIcons/beer_l.svg</file>
-        <file>resources/appIcons/back_l.svg</file>
-        <file>resources/appIcons/anim_l.svg</file>
-        <file>resources/appIcons/leg_l.svg</file>
-        <file>resources/appIcons/fav_l.svg</file>
-        <file>resources/appIcons/cog_l.svg</file>
-        <file>resources/appIcons/cel_l.svg</file>
-        <file>resources/appIcons/cal_l.svg</file>
-        <file>resources/appIcons/bug_l.svg</file>
-        <file>resources/appIcons/arm_l.svg</file>
-        <file>resources/appIcons/js_l.svg</file>
-        <file>resources/appIcons/io_l.svg</file>
-        <file>resources/appIcons/ik_l.svg</file>
-        <file>resources/appIcons/fx_l.svg</file>
-        <file>resources/appIcons/fk_l.svg</file>
         <file>resources/appIcons/online-movie-documentation_sl.svg</file>
         <file>resources/appIcons/movie-documentation_sl.svg</file>
         <file>resources/appIcons/cinema-movie_sl.svg</file>
@@ -725,5 +426,86 @@
         <file>resources/appIcons/sort-numeric-reversed_bl.svg</file>
         <file>resources/appIcons/sort-numeric_sl.svg</file>
         <file>resources/appIcons/use-bash-terminal_sl.svg</file>
+        <file>resources/appIcons/2d-camera_sl.svg</file>
+        <file>resources/appIcons/after-effects-composition_sl.svg</file>
+        <file>resources/appIcons/align-horizontal_sl.svg</file>
+        <file>resources/appIcons/align-vertical_sl.svg</file>
+        <file>resources/appIcons/angle_sl.svg</file>
+        <file>resources/appIcons/archive-box_sl.svg</file>
+        <file>resources/appIcons/arm-bones_sl.svg</file>
+        <file>resources/appIcons/automation-sl.svg</file>
+        <file>resources/appIcons/auto-rig_bl.svg</file>
+        <file>resources/appIcons/auto-rig_sl.svg</file>
+        <file>resources/appIcons/baby-newbie-rookie-beginner_sl.svg</file>
+        <file>resources/appIcons/barrel-god_sl.svg</file>
+        <file>resources/appIcons/batch-control_sl.svg</file>
+        <file>resources/appIcons/bezier-curve_sl.svg</file>
+        <file>resources/appIcons/bezier-ik_sl.svg</file>
+        <file>resources/appIcons/body-bones_sl.svg</file>
+        <file>resources/appIcons/bone_sl.svg</file>
+        <file>resources/appIcons/bone-structure-element_bl.svg</file>
+        <file>resources/appIcons/bone-structure-element_sl.svg</file>
+        <file>resources/appIcons/bone-structure-limb_bl.svg</file>
+        <file>resources/appIcons/bone-structure-limb_sl.svg</file>
+        <file>resources/appIcons/change-video-framerate_sl.svg</file>
+        <file>resources/appIcons/crop_bl.svg</file>
+        <file>resources/appIcons/crop_sl.svg</file>
+        <file>resources/appIcons/cube-3d_sl.svg</file>
+        <file>resources/appIcons/ear_sl.svg</file>
+        <file>resources/appIcons/expert_sl.svg</file>
+        <file>resources/appIcons/exposure_sl.svg</file>
+        <file>resources/appIcons/eyebrow_sl.svg</file>
+        <file>resources/appIcons/eye_sl.svg</file>
+        <file>resources/appIcons/file-arcihve_sl.svg</file>
+        <file>resources/appIcons/fk-forward-kinematics_bl.svg</file>
+        <file>resources/appIcons/fk-forward-kinematics_sl.svg</file>
+        <file>resources/appIcons/foot-plantigrade_sl.svg</file>
+        <file>resources/appIcons/hair_sl.svg</file>
+        <file>resources/appIcons/head-skull-bones_sl.svg</file>
+        <file>resources/appIcons/hips-pelvis-bones_sl.svg</file>
+        <file>resources/appIcons/hoof-ungulate_sl.svg</file>
+        <file>resources/appIcons/human_sl.svg</file>
+        <file>resources/appIcons/ik-fk_bl.svg</file>
+        <file>resources/appIcons/ik-fk_sl.svg</file>
+        <file>resources/appIcons/ik-inverse-kinematics_bl.svg</file>
+        <file>resources/appIcons/ik-inverse-kinematics_sl.svg</file>
+        <file>resources/appIcons/info-about_sl.svg</file>
+        <file>resources/appIcons/item_sl.svg</file>
+        <file>resources/appIcons/layer-2d_bl.svg</file>
+        <file>resources/appIcons/layer-2d_sl.svg</file>
+        <file>resources/appIcons/leg-bones_sl.svg</file>
+        <file>resources/appIcons/list-file-preset_sl.svg</file>
+        <file>resources/appIcons/load-list-file-preset_bl.svg</file>
+        <file>resources/appIcons/load-list-file-preset_sl.svg</file>
+        <file>resources/appIcons/microchip_sl.svg</file>
+        <file>resources/appIcons/microchip-thread-process_sl.svg</file>
+        <file>resources/appIcons/mouth_sl.svg</file>
+        <file>resources/appIcons/normal_sl.svg</file>
+        <file>resources/appIcons/nose_sl.svg</file>
+        <file>resources/appIcons/paw-digitigrade_sl.svg</file>
+        <file>resources/appIcons/photo-camera_sl.svg</file>
+        <file>resources/appIcons/quadruped-armature-structure-bones_sl.svg</file>
+        <file>resources/appIcons/raw-image-file-settings_sl.svg</file>
+        <file>resources/appIcons/raw-image-file_sl.svg</file>
+        <file>resources/appIcons/rig-biped-armature-structure-bones_bl.svg</file>
+        <file>resources/appIcons/rig-biped-armature-structure-bones_sl.svg</file>
+        <file>resources/appIcons/saveas-list-file-preset_bl.svg</file>
+        <file>resources/appIcons/saveas-list-file-preset_sl.svg</file>
+        <file>resources/appIcons/save-list-file-preset_bl.svg</file>
+        <file>resources/appIcons/save-list-file-preset_sl.svg</file>
+        <file>resources/appIcons/set-after-effects-composition_sl.svg</file>
+        <file>resources/appIcons/set-after-effects-thread-process_sl.svg</file>
+        <file>resources/appIcons/set-list-file-preset_sl.svg</file>
+        <file>resources/appIcons/set-microchip-thread-process_sl.svg</file>
+        <file>resources/appIcons/set-show-grid_sl.svg</file>
+        <file>resources/appIcons/set-show-list_sl.svg</file>
+        <file>resources/appIcons/set-video-framerate_bl.svg</file>
+        <file>resources/appIcons/set-video-framerate_sl.svg</file>
+        <file>resources/appIcons/shoulders-neck-bones_sl.svg</file>
+        <file>resources/appIcons/spine-vertebrae-bones_sl.svg</file>
+        <file>resources/appIcons/spine-vertebrae-head-bones_sl.svg</file>
+        <file>resources/appIcons/tail-bones_sl.svg</file>
+        <file>resources/appIcons/tail_sl.svg</file>
+        <file>resources/appIcons/video-camera_sl.svg</file>
     </qresource>
 </RCC>

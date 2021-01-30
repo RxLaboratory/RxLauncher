@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="32"
+   height="32"
+   viewBox="0 0 8.4666666 8.4666666"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   sodipodi:docname="bone-structure-element_sl.svg">
+  <defs
+     id="defs2">
+    <style
+       id="style1399">.cls-1{fill:#e3e3e3;}</style>
+    <style
+       id="style1399-4">.cls-1{fill:#e3e3e3;}</style>
+    <style
+       id="style1399-8">.cls-1{fill:#e3e3e3;}</style>
+    <style
+       id="style1399-4-5">.cls-1{fill:#e3e3e3;}</style>
+    <style
+       id="style1399-0">.cls-1{fill:#e3e3e3;}</style>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="11.313708"
+     inkscape:cx="19.557013"
+     inkscape:cy="21.041934"
+     inkscape:document-units="mm"
+     inkscape:current-layer="svg8"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1920"
+     inkscape:window-height="1043"
+     inkscape:window-x="0"
+     inkscape:window-y="120"
+     inkscape:window-maximized="1"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:snap-nodes="false"
+     inkscape:snap-others="true"
+     inkscape:snap-object-midpoints="true"
+     inkscape:snap-page="true">
+    <sodipodi:guide
+       position="8.4666666,0"
+       orientation="-32,0"
+       id="guide854"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="9.9384114,8.4666666"
+       orientation="0,-32"
+       id="guide856"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="0,8.4666814"
+       orientation="32,0"
+       id="guide858"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <path
+     style="opacity:1;fill:#e3e3e3;fill-opacity:1;stroke:none;stroke-width:1.61809206;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     d="m 7.8060549,0.03276118 c -0.1666121,0 -0.3334299,0.0641451 -0.4610969,0.19181204 L 1.9945245,5.5744726 C 1.8369887,5.51954 1.6714132,5.4911916 1.5045757,5.4905881 0.67362146,5.4905881 -3.0216519e-8,6.1642096 0,6.9951638 -3.0216519e-8,7.826118 0.67362146,8.4997395 1.5045757,8.4997395 c 0.8309542,0 1.5045757,-0.6736215 1.5045757,-1.5045757 C 3.0085495,6.8283263 2.9801995,6.6627508 2.9252669,6.5052149 L 8.2751663,1.1547814 c 0.2553338,-0.25533385 0.2553338,-0.6663256 0,-0.92165946 l -0.00855,-0.008549 C 8.1389507,0.09690628 7.9726672,0.03276118 7.8060549,0.03276118 Z M 1.5045757,6.0756415 C 2.012468,6.0755105 2.4242289,6.4872713 2.424098,6.9951638 2.4242289,7.5030563 2.012468,7.9148171 1.5045757,7.914686 0.99668332,7.9148171 0.58492243,7.5030563 0.58505341,6.9951638 0.58492243,6.4872713 0.99668332,6.0755105 1.5045757,6.0756415 Z m 0,0.5385697 C 1.2941589,6.6141568 1.1235688,6.784747 1.1236231,6.9951638 1.1235688,7.2055806 1.2941589,7.3761708 1.5045757,7.3761163 1.7149925,7.3761708 1.8855824,7.2055806 1.8855283,6.9951638 1.8855824,6.784747 1.7149925,6.6141568 1.5045757,6.6142112 Z"
+     id="path828"
+     inkscape:connector-curvature="0" />
+</svg>

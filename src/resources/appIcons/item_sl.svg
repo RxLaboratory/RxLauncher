@@ -15,9 +15,22 @@
    version="1.1"
    id="svg8"
    inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
-   sodipodi:docname="settings_l.svg">
+   sodipodi:docname="item_sl.svg">
   <defs
-     id="defs2" />
+     id="defs2">
+    <style
+       id="style1399">.cls-1{fill:#e3e3e3;}</style>
+    <style
+       id="style1399-4">.cls-1{fill:#e3e3e3;}</style>
+    <style
+       id="style1399-8">.cls-1{fill:#e3e3e3;}</style>
+    <style
+       id="style1399-4-5">.cls-1{fill:#e3e3e3;}</style>
+    <style
+       id="style1399-0">.cls-1{fill:#e3e3e3;}</style>
+    <style
+       id="style854">.cls-1{fill:#e3e3e3;}</style>
+  </defs>
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -25,30 +38,34 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="-259.52402"
-     inkscape:cy="-8.1717855"
+     inkscape:zoom="7.9999996"
+     inkscape:cx="1.909087"
+     inkscape:cy="10.54553"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="svg8"
      showgrid="false"
      units="px"
      inkscape:window-width="1920"
      inkscape:window-height="1043"
      inkscape:window-x="0"
      inkscape:window-y="120"
-     inkscape:window-maximized="1">
-    <sodipodi:guide
-       position="0,0"
-       orientation="0,32"
-       id="guide852"
-       inkscape:locked="false" />
+     inkscape:window-maximized="1"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:snap-nodes="true"
+     inkscape:snap-others="true"
+     inkscape:snap-object-midpoints="true"
+     inkscape:snap-page="true">
     <sodipodi:guide
        position="8.4666666,0"
        orientation="-32,0"
        id="guide854"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="8.4666666,8.4666666"
+       position="9.9384114,8.4666666"
        orientation="0,-32"
        id="guide856"
        inkscape:locked="false" />
@@ -70,26 +87,9 @@
       </cc:Work>
     </rdf:RDF>
   </metadata>
-  <g
-     inkscape:label="Layer 1"
-     inkscape:groupmode="layer"
-     id="layer1"
-     transform="translate(0,-288.53334)">
-    <rect
-       style="fill:#232323;fill-opacity:1;stroke:none;stroke-width:1.56500006;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;image-rendering:auto"
-       id="rect850"
-       width="8.4666662"
-       height="8.4666815"
-       x="0"
-       y="288.53333"
-       inkscape:label="BG" />
-    <rect
-       y="290.63806"
-       x="2.1047437"
-       height="4.2571864"
-       width="4.2571788"
-       id="rect860"
-       style="fill:#83d3f6;fill-opacity:1;stroke:none;stroke-width:0.78690773;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;image-rendering:auto"
-       inkscape:label="Color" />
-  </g>
+  <path
+     style="fill:#e3e3e3;fill-opacity:1;stroke-width:0.01889881"
+     inkscape:connector-curvature="0"
+     d="M 7.5595233,0 H 0.90714273 C 0.4063246,-1.4258541e-7 1.6423159e-7,0.40632428 0,0.90714269 L 1.4370264e-7,7.5595236 C 2.4634738e-7,8.0603425 0.40632471,8.4666666 0.90714294,8.4666666 H 7.5595234 c 0.5008185,10e-8 0.9071431,-0.4063241 0.9071431,-0.907143 l 2e-7,-6.65238091 C 8.4666668,0.40632455 8.0603421,0 7.5595233,0 Z"
+     id="path864" />
 </svg>
