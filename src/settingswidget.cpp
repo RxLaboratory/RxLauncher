@@ -78,6 +78,6 @@ void SettingsWidget::on_helpButton_clicked()
 
 void SettingsWidget::on_bugButton_clicked()
 {
-    AndroidUtils::launchUrl("http://github.com");
+    AndroidUtils::launchUrl("https://github.com/Rainbox-dev/RxLauncher/issues/new/choose");
     on_applyButton_clicked();
 }
