@@ -11,6 +11,7 @@
 #include <QSettings>
 #include <QScroller>
 #include <QAndroidJniEnvironment>
+#include <QJSEngine>
 
 #include "androidmanager.h"
 #include "settingswidget.h"
@@ -27,7 +28,7 @@ public:
     explicit MainWindow(QWidget *parent = nullptr);
     enum ViewType { Grid, List };
     Q_ENUM(ViewType);
-    enum LogType { Add, Remove, Settings, Modify, Display, Info, Debug, Important, Warning, Critical, Fatal };
+    enum LogType { Add, Remove, Settings, Modify, Display, Info, Debug, Important, Warning, Critical, Fatal, Code, CalcResult };
     Q_ENUM(LogType)
 public slots:
     void show();
@@ -63,14 +64,18 @@ private slots:
     void setViewType(QString type);
     void showClock(bool show=true);
     void addUrl(QString urlStr);
+    // Cmd
+    void initCalc();
+    void parseLineEdit();
     //Monitoring/console
     void log(QString message, LogType type = LogType::Info);
     void log(QStringList message, LogType type = LogType::Info);
     void appLaunched();
     void appUninstalled(AppInfo *app);
     void appInstalled(AppInfo *app);
-    void on_consoleButton_clicked(bool checked);
+    void showConsole(bool show = true);
     void on_consoleSplitter_splitterMoved(int pos, int index);
+
 protected:
     void closeEvent(QCloseEvent *event);
 };

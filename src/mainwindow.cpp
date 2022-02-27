@@ -34,9 +34,8 @@ MainWindow::MainWindow(QWidget *parent) :
     else sortButton->setIcon(QIcon(":/icons/sortName"));
     setViewType(settings.value("viewType", "Grid").toString());
 
-    bool showConsole = settings.value("showConsole", false).toBool();
-    consoleButton->setChecked(showConsole);
-    on_consoleButton_clicked(showConsole);
+    bool consoleShown = settings.value("showConsole", false).toBool();
+    showConsole(consoleShown);
 
     mainLayout->setStretch(0,25);
     mainLayout->setStretch(1,75);
@@ -54,6 +53,12 @@ MainWindow::MainWindow(QWidget *parent) :
     connect(android, &AndroidManager::appInstalled, this, &MainWindow::appInstalled);
     connect(android, SIGNAL(appUninstalled(AppInfo*)), this, SLOT(appUninstalled(AppInfo*)));
     connect(appsListWidget, &AppsListWidget::appSettings, this, &MainWindow::editApplication);
+
+    connect(lineEdit, SIGNAL(editingFinished()), this, SLOT(parseLineEdit()));
+    connect(lineEdit, SIGNAL(returnPressed()), this, SLOT(parseLineEdit()));
+    connect(calcCmdButton, SIGNAL(clicked()), this, SLOT(initCalc()));
+
+    connect(consoleButton, SIGNAL(clicked(bool)), this, SLOT(showConsole(bool)));
 
     // List apps
     android->getApplications();
@@ -81,6 +86,11 @@ void MainWindow::finishSetupUi()
 
 void MainWindow::on_lineEdit_textEdited(const QString &arg1)
 {
+    // Calc
+    if (arg1.startsWith("="))
+    {
+        return;
+    }
     appsListWidget->layout(arg1);
 }
 
@@ -175,50 +185,97 @@ void MainWindow::addUrl(QString urlStr)
     editApplication(url);
 }
 
+void MainWindow::initCalc()
+{
+    QString t = lineEdit->text();
+    if (!t.startsWith("=")) lineEdit->setText("= " + t);
+    lineEdit->setFocus();
+    AndroidManager::instance()->showKeyboard();
+}
+
+void MainWindow::parseLineEdit()
+{
+    QString text = lineEdit->text();
+    if (text.startsWith("="))
+    {
+        text = text.remove(0,1);
+        QJSEngine engine;
+        QJSValue result = engine.evaluate( text );
+
+        if (result.isError())
+        {
+            QString resultText = result.toString();
+            log(QStringList() << resultText << "Result from:" << text, LogType::Warning);
+        }
+        else
+        {
+            QString resultText = result.toString();
+            log(QStringList() << resultText << "Result from:" << text, LogType::CalcResult);
+            lineEdit->clear();
+        }
+        showConsole(true);
+    }
+
+}
+
 void MainWindow::log(QString message, LogType type)
 {
     consoleEdit->setTextColor(QColor(227,227,227));
-    consoleEdit->setFontWeight(400);
+    consoleEdit->setFontWeight(QFont::Normal);
     consoleEdit->setFontItalic(false);
     QString time = "[" + QLocale::system().toString(QDateTime::currentDateTime(), QLocale::ShortFormat) + "] ";
     consoleEdit->append(time);
     if (type == LogType::Add)
     {
+        consoleEdit->setFontWeight(QFont::DemiBold);
         consoleEdit->setTextColor(QColor(138,216,145));
     }
     else if (type == LogType::Remove)
     {
+        consoleEdit->setFontWeight(QFont::DemiBold);
         consoleEdit->setTextColor(QColor(249,105,105));
     }
     else if (type == LogType::Settings)
     {
+        consoleEdit->setFontWeight(QFont::Normal);
         consoleEdit->setTextColor(QColor(131,211,246));
     }
     else if (type == LogType::Modify)
     {
+        consoleEdit->setFontWeight(QFont::Normal);
         consoleEdit->setTextColor(QColor(213,136,241));
     }
     else if (type == LogType::Display)
     {
+        consoleEdit->setFontWeight(QFont::Normal);
         consoleEdit->setTextColor(QColor(216,255,140));
     }
     else if (type == LogType::Important)
     {
+        consoleEdit->setFontWeight(QFont::Bold);
         consoleEdit->setTextColor(QColor(236,215,24));
     }
     else if (type == LogType::Warning)
     {
+        consoleEdit->setFontWeight(QFont::Bold);
         consoleEdit->setTextColor(QColor(249,105,105));
     }
     else if (type == LogType::Critical)
     {
+        consoleEdit->setFontWeight(QFont::Black);
         consoleEdit->setTextColor(QColor(241,136,186));
     }
     else if (type == LogType::Fatal)
     {
+        consoleEdit->setFontWeight(QFont::Black);
         consoleEdit->setTextColor(QColor(255,255,255));
     }
-    consoleEdit->setFontWeight(800);
+    else if (type == LogType::CalcResult)
+    {
+        consoleEdit->setFontWeight(QFont::Bold);
+        consoleEdit->setTextColor(QColor(216,255,140));
+    }
+
     consoleEdit->insertPlainText(message);
 }
 
@@ -339,9 +396,12 @@ void MainWindow::closeAppSettings()
     stackedWidget->setCurrentIndex(1);
 }
 
-void MainWindow::on_consoleButton_clicked(bool checked)
+void MainWindow::showConsole(bool show)
 {
-    if (checked)
+    QSignalBlocker b(consoleButton);
+    consoleButton->setChecked(show);
+
+    if (show)
     {
         QList<int>sizes;
         sizes << settings.value("consoleSize",15).toInt();
@@ -355,7 +415,7 @@ void MainWindow::on_consoleButton_clicked(bool checked)
         sizes << settings.value("listSize",100).toInt();
         consoleSplitter->setSizes(sizes);
     }
-    settings.setValue("showConsole", checked);
+    settings.setValue("showConsole", show);
 }
 
 void MainWindow::on_consoleSplitter_splitterMoved(int pos, int index)
@@ -376,3 +436,5 @@ void MainWindow::closeEvent(QCloseEvent *event)
 {
     event->ignore();
 }
+
+

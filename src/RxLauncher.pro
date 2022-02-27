@@ -1,4 +1,4 @@
-QT += core gui androidextras svg xml
+QT += core gui androidextras svg xml qml
 
 greaterThan(QT_MAJOR_VERSION, 4): QT += widgets
 

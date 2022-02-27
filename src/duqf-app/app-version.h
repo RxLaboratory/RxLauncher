@@ -1,10 +1,10 @@
 #ifndef APPVERSION_H
 #define APPVERSION_H
 
-#define VERSION_MAJOR 0
-#define VERSION_MINOR 0
-#define VERSION_BUILD 1
-#define VERSION_SUFFIX "Alpha"
+#define VERSION_MAJOR 1
+#define VERSION_MINOR 1
+#define VERSION_BUILD 0
+#define VERSION_SUFFIX "Beta"
 
 #define STRINGIFY_VERSION(A, B, C) CONCAT(A, B, C )
 #define CONCAT(A, B, C ) STRINGIFY( A##.##B##.##C )
@@ -19,12 +19,12 @@
 #define VER_PRODUCTVERSION VERSION_MAJOR,VERSION_MINOR,VERSION_BUILD,0
 #define STR_PRODUCTVERSION STR_VERSION
 
-#define STR_COMPANYNAME "Duduf"
-#define STR_FILEDESCRIPTION "DuLauncher"
-#define STR_INTERNALNAME "DuLauncher"
-#define STR_LEGALCOPYRIGHT "Copyright (c) 2020 Nicolas Dufresne and contributors"
+#define STR_COMPANYNAME "RxLaboratory"
+#define STR_FILEDESCRIPTION "RxLauncher"
+#define STR_INTERNALNAME "RxLauncher"
+#define STR_LEGALCOPYRIGHT "Copyright (c) 2020-2022 Nicolas Dufresne and contributors"
 #define STR_LEGALTRADEMARKS1 "All Rights Reserved"
-#define STR_PRODUCTNAME "DuLauncher - A Launcher"
+#define STR_PRODUCTNAME "RxLauncher - A Launcher"
 
 #define STR_COMPANYDOMAIN "duduf.com"
 

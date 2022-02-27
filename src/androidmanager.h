@@ -8,6 +8,8 @@
 #include <QAndroidJniEnvironment>
 #include <QRegularExpression>
 #include <QRegularExpressionMatch>
+#include <QInputMethod>
+#include <QGuiApplication>
 #include "appinfo.h"
 #include "androidutils.h"
 
@@ -28,6 +30,7 @@ public slots:
     AppInfo *createUrl(QString url, QString name = "");
     AppInfo *takeApp(AppInfo *app);
     AppInfo *takeApp(QString packageName);
+    void showKeyboard();
 
 signals:
     void gettingApplications();

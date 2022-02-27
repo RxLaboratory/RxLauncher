@@ -143,6 +143,12 @@ AppInfo *AndroidManager::takeApp(QString packageName)
     return nullptr;
 }
 
+void AndroidManager::showKeyboard()
+{
+    QInputMethod *keyboard = QGuiApplication::inputMethod();
+    keyboard->show();
+}
+
 void AndroidManager::updateApplications(QAndroidJniObject *apps)
 {
     //remove all

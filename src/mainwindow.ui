@@ -35,9 +35,7 @@
      <widget class="QLabel" name="timeLabel">
       <property name="font">
        <font>
-        <family>Ubuntu Condensed</family>
         <pointsize>25</pointsize>
-        <weight>75</weight>
         <bold>true</bold>
        </font>
       </property>
@@ -60,9 +58,7 @@
          <widget class="QLabel" name="timeLabel_2">
           <property name="font">
            <font>
-            <family>Ubuntu Condensed</family>
             <pointsize>25</pointsize>
-            <weight>75</weight>
             <bold>true</bold>
            </font>
           </property>
@@ -269,7 +265,7 @@ applications...</string>
                   <x>0</x>
                   <y>0</y>
                   <width>144</width>
-                  <height>316</height>
+                  <height>355</height>
                  </rect>
                 </property>
                 <property name="sizePolicy">
@@ -305,13 +301,13 @@ applications...</string>
            <number>15</number>
           </property>
           <item>
-           <widget class="QToolButton" name="clearCmdButton">
+           <widget class="QToolButton" name="calcCmdButton">
             <property name="text">
              <string>...</string>
             </property>
             <property name="icon">
              <iconset resource="resources.qrc">
-              <normaloff>:/icons/remove</normaloff>:/icons/remove</iconset>
+              <normaloff>:/appIcons/resources/appIcons/calculator_sl.svg</normaloff>:/appIcons/resources/appIcons/calculator_sl.svg</iconset>
             </property>
             <property name="iconSize">
              <size>
@@ -327,6 +323,23 @@ applications...</string>
              <font>
               <pointsize>18</pointsize>
              </font>
+            </property>
+           </widget>
+          </item>
+          <item>
+           <widget class="QToolButton" name="clearCmdButton">
+            <property name="text">
+             <string>...</string>
+            </property>
+            <property name="icon">
+             <iconset resource="resources.qrc">
+              <normaloff>:/icons/remove</normaloff>:/icons/remove</iconset>
+            </property>
+            <property name="iconSize">
+             <size>
+              <width>64</width>
+              <height>64</height>
+             </size>
             </property>
            </widget>
           </item>
