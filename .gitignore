@@ -9,6 +9,15 @@
 *.so
 *.dll
 *.dylib
+*.gch
+*.pch
+*.obj
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
 
 # Qt-es
 
